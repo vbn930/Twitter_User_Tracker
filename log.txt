@@ -1,0 +1,6 @@
+[2024-03-24 17:37:05][Event] =Twitter Crawler ver.2.0=
+[2024-03-24 17:37:05][Event] 크롤링 대상 사용자 : [] 설정 완료
+[2024-03-24 17:37:05][Event] 계정 rubyduby0503의 클라이언트 생성 완료!
+[2024-03-24 17:37:05][Event] 총 1개의 클라이언트 생성 완료!
+[2024-03-24 17:37:05][Error] 다음과 같은 오류가 발생하여 프로그램을 종료합니다. : 400 Bad Request
+The number of values in the `usernames` query parameter list [0] is not between 1 and 100
