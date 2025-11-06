@@ -1,4 +1,4 @@
-# Distributed Twitter Crawler & Rate Limit Manager
+# Distributed Client Resource Pool Manager
 
 `Python` `Tweepy` `Distributed-Systems` `Networking` `API-Management` `Load-Balancing`
 
